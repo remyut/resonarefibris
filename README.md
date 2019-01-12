@@ -2,7 +2,7 @@
 #WELCOME TO MY PUBLIC REPOSITORY
 ================================
 
-I am Remy saksik I am developing a real time Android acoustic application applied to music theory as a hobby.
+I am Remy Saksik I am developing a real time Android acoustic application applied to music theory as a hobby.
 
 The main feature of this project is working in an accurate way, I will be glad to give you a demo to prove the well working condition of the code.
 
@@ -14,7 +14,7 @@ I am for now the only contributor, this project is hosted on a private repositor
 
 I will allow the technical recruiters to have access to the code.
 
-in order to access it, request access by sending me an email to: saksik.remy@gmail.com
+In order to access it, request access by sending me an email to: saksik.remy@gmail.com
 
 **Note: You need a valid GitHub account to access the private repository**
 
