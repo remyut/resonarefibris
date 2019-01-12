@@ -18,7 +18,7 @@ In order to access it, request access by sending me an email to: saksik.remy@gma
 
 **Note: You need a valid GitHub account to access the private repository**
 
-I am sharing with you the project's roadmap and the concept used.
+I am sharing with you the project's roadmap and the concepts used.
 
 
 #Roadmap
@@ -29,7 +29,7 @@ I am sharing with you the project's roadmap and the concept used.
 * Publish the App on the Playstore by 2019
 
 
-#Concept Used
+#Concepts Used
 =============
 
 | Mathematics                    |      Advanced Android            |           Basic Android                  |    Object Oriented      |   Java            |
