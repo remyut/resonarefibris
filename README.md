@@ -14,7 +14,7 @@ I am for now the only contributor, this project is hosted on a private repositor
 
 I will allow the technical recruiters to have access to the code.
 
-in order to access it, request access by sending me an email to: saksik.remy@gmail.com?subject=public-github
+in order to access it, request access by sending me an email to: (saksik.remy@gmail.com?subject=public-github)
 
 I am sharing with you the project's roadmap and the concept used.
 
