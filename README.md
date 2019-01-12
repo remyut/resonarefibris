@@ -30,15 +30,15 @@ I am sharing with you the project's roadmap and the concept used.
 #Concept Used
 =============
 
-Mathematics                    |      Advanced Android            |           Basic Android                  |    Object Oriented      |   Java           |
-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-Fast Fourier Transform         |      Handler Thread              |     Access the device memory             |     Inheritance         |    List          |
-Cooley-Tukey FFT Algorithm     |      Runnable tasks              |     Access the microphone                |     Abstraction         |    Hashmap       |
-Radix-2 DIT                    |      Worker Thread               |     Getting stream from the microphone   |     Interfaces          |    Recursion     |
-Linear matrix search           |      Queue mechanism             |     Callbacks                            |     Polymorphism        |    Buffering     |
-			       |     Inter-process communication  |     Custom responsive UI view            |                         |                  |
-			       |     Asynchronous task	          |     Custom activity                      |                         |                  |
-                               |                                  |     UI components                        |                         |                  |
+| Mathematics                    |      Advanced Android            |           Basic Android                  |    Object Oriented      |   Java            |
+| -------------------------------|----------------------------------|------------------------------------------|-------------------------|------------------ |
+| Fast Fourier Transform         |      Handler Thread              |     Access the device memory             |     Inheritance         |    List           |
+| Cooley-Tukey FFT Algorithm     |      Runnable tasks              |     Access the microphone                |     Abstraction         |    Hashmap        |
+| Radix-2 DIT                    |      Worker Thread               |     Getting stream from the microphone   |     Interfaces          |    Recursion      |
+| Linear matrix search           |      Queue mechanism             |     Callbacks                            |     Polymorphism        |    Buffering      |
+|   			         |     Inter-process communication  |     Custom responsive UI view            |                         |                   |
+| 			         |     Asynchronous task            |     Custom activity                      |                         |                   |
+|                                |                                  |     UI components                        |                         |                   |
 
 
 
