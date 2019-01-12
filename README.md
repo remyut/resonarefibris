@@ -16,6 +16,8 @@ I will allow the technical recruiters to have access to the code.
 
 in order to access it, request access by sending me an email to: saksik.remy@gmail.com
 
+**Note: You need a valid GitHub account to access the private repository**
+
 I am sharing with you the project's roadmap and the concept used.
 
 
