@@ -2,7 +2,7 @@
 #WELCOME TO MY PUBLIC REPOSITORY
 ================================
 
-I am Remy Saksik I am developing a real time Android acoustic application applied to music theory as a hobby.
+I am Remy Saksik, I am developing a real time Android acoustic application applied to music theory as a hobby.
 
 The main feature of this project is working in an accurate way, I will be glad to give you a demo to prove the well working condition of the code.
 
@@ -30,7 +30,7 @@ I am sharing with you the project's roadmap and the concepts used.
 
 
 #Concepts Used
-=============
+==============
 
 | Mathematics                    |      Advanced Android            |           Basic Android                  |    Object Oriented      |   Java            |
 | -------------------------------|----------------------------------|------------------------------------------|-------------------------|------------------ |
@@ -38,8 +38,8 @@ I am sharing with you the project's roadmap and the concepts used.
 | Cooley-Tukey FFT Algorithm     |      Runnable tasks              |     Access the microphone                |     Abstraction         |    Hashmap        |
 | Radix-2 DIT                    |      Worker Thread               |     Getting stream from the microphone   |     Interfaces          |    Recursion      |
 | Linear matrix search           |      Queue mechanism             |     Callbacks                            |     Polymorphism        |    Buffering      |
-|   			         |     Inter-process communication  |     Custom responsive UI view            |                         |                   |
-| 			         |     Asynchronous task            |     Custom activity                      |                         |                   |
+|   			         |      Inter-process communication |     Custom responsive UI view            |                         |                   |
+| 			         |      Asynchronous task           |     Custom activity                      |                         |                   |
 |                                |                                  |     UI components                        |                         |                   |
 
 
