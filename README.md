@@ -40,8 +40,10 @@ I am sharing with you the project's roadmap and the concepts used.
 | Linear matrix search           |      Queue mechanism             |     Callbacks                            |     Polymorphism        |    Buffering      |
 |   			         |      Inter-process communication |     Custom responsive UI view            |                         |                   |
 | 			         |      Asynchronous task           |     Custom activity                      |                         |                   |
-|                                |                                  |     UI components                        |                         |                   |
-
+|                                |      View Model                  |     UI components                        |                         |                   |
+|				 |      Room                        |     Recycler View                        |                         |                   |
+|				 |				    |     Fragments                            |                         |                   |
+|				 |                                  |     Runtime Permissions                  |                         |                   |
 
 
 
