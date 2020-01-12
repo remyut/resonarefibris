@@ -2,7 +2,7 @@
 #WELCOME TO MY PUBLIC REPOSITORY
 ================================
 
-I am Remy Saksik, I am developing a real time Android acoustic application applied to music theory as a hobby.
+I am Remy Saksik, I am developing a real time Android acoustic application applied to music theory.
 
 The main feature of this project is working in an accurate way, I will be glad to give you a demo to prove the well working condition of the code.
 
