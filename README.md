@@ -26,7 +26,7 @@ I am sharing with you the project's roadmap and the concepts used.
 * Get the official Android google training (150 USD) 
 * Optimise FFT calculation using native C (NDK)
 * Implement music prediction using machine learning
-* Publish the App on the Playstore by 2019
+* Publish the App on the Playstore by 2020
 
 
 #Concepts Used
